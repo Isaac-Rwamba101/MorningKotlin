@@ -1,6 +1,6 @@
 fun main() {
-    var firstname = "Isaac"
-    var lastname = "Rwambizzo"
+    var firstname = "Kaleb"
+    var lastname = "Chege"
 
     println(firstname)
 
